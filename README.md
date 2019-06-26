@@ -39,12 +39,12 @@ _VanAnh_C1_CauHoi.docx_ (Trả lời câu hỏi chương 1)
 
 File **cpp** phải đặt tên theo ví dụ sau:
 
-_VanAnh_C1_Bai5_Cau11.cpp_    
+_C1_Bai5_Cau11_VanAnh.cpp_    
 
-_DucBang_C1_Bai5_Cau12.cpp_
+_C1_Bai5_Cau12_DucBang.cpp_
 
 File **doc / docx** phải đặt tên theo ví dụ sau:
 
-_VanAnh_C1_Bai2_Cau1.docx_     
+_C1_Bai2_Cau1_VanAnh.docx_     
 
-_BaoDung_C1_Bai2_Cau2.docx_
+_C1_Bai2_Cau2_BaoDung.docx_
