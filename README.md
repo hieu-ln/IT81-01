@@ -13,7 +13,7 @@ Môn CTDL-GT
 ## Nhóm sử dụng chung 1 Repository này, lưu các bài với cấu trúc như sau:
 
 * Thư mục `TraLoiCauHoi`: lưu các file word của các chương (6 file, mỗi chương 1 file)
-* Thư mục `BTLT]: lưu các file word phần BTLT của các chương; lưu các file word của phần độ phức tạp nếu có;
+* Thư mục `BTLT`: lưu các file word phần BTLT của các chương; lưu các file word của phần độ phức tạp nếu có;
 * Thư mục `CodeC1`: lưu các file *.cpp (mỗi file là 1 bài) của chương 1
 * Thư mục `CodeC2`: lưu các file *.cpp (mỗi file là 1 bài) của chương 2
 * Thư mục `CodeC3`: lưu các file *.cpp (mỗi file là 1 bài) của chương 3
@@ -32,7 +32,7 @@ _VanAnh_C1_Bai1.cpp_
 File **doc / docx** phải đặt tên theo ví dụ sau:
 
 _VanAnh_C1_Bai1.docx_ (bài lý thuyết)
-
+  
 _VanAnh_C1_CauHoi.docx_ (Trả lời câu hỏi chương 1)
 
 ## Hướng dẫn quy tắc đặt tên file theo nhóm
