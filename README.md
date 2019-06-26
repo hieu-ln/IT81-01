@@ -23,7 +23,7 @@ Môn CTDL-GT
 * Đảm bảo **commit & push** đúng giờ đúng cách.
 
 
-## Hướng dẫn quy tắc đặt tên file theo cá nhân
+### Hướng dẫn quy tắc đặt tên file các bài bắt buộc của cá nhân
 
 File **cpp** phải đặt tên theo ví dụ sau:
 
@@ -35,12 +35,16 @@ _VanAnh_C1_Bai1.docx_ (bài lý thuyết)
   
 _VanAnh_C1_CauHoi.docx_ (Trả lời câu hỏi chương 1)
 
-## Hướng dẫn quy tắc đặt tên file theo nhóm
+### Hướng dẫn quy tắc đặt tên file các bài bắt buộc của nhóm
 
 File **cpp** phải đặt tên theo ví dụ sau:
 
-_Nhom1_C1_Bai1.cpp_
+_VanAnh_C1_Bai5_Cau11.cpp_    
+
+_DucBang_C1_Bai5_Cau12.cpp_
 
 File **doc / docx** phải đặt tên theo ví dụ sau:
 
-_Nhom1_C1_Bai2.docx_
+_VanAnh_C1_Bai2_Cau1.docx_     
+
+_BaoDung_C1_Bai2_Cau2.docx_
