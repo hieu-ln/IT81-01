@@ -43,4 +43,4 @@ _Nhom1_C1_Bai1.cpp_
 
 File **doc / docx** phải đặt tên theo ví dụ sau:
 
-_Nhom1_C1_Bai2.docx
+_Nhom1_C1_Bai2.docx_
